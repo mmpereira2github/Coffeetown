@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TableListPerWaiterView">Tables per Waiter</string>
+    <string name="WaiterList">Waiter List</string>
+    <string name="ProductCategoryMain">Product Category Creation</string>
+</resources>

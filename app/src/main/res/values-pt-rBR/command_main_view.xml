@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CommandMainView_Label">{0}</string>
+    <string name="CommandMainView_Categories">Categorias</string>
+    <string name="CommandMainView_Menu">Cardápio</string>
+</resources>

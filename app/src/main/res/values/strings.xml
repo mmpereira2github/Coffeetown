@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coffeetown</string>
+    <string name="waiter">Garçon</string>
+    <string name="my_tables">Minhas mesas</string>
+</resources>

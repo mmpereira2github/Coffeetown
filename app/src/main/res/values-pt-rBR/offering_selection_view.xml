@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="OfferingSelectionView_Categories">Categoria</string>
+    <string name="OfferingSelectionView_Select">Seleciona</string>
+</resources>

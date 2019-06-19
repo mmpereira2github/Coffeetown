@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/spinnerLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:divider="?android:dividerHorizontal"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/basicListViewFragment_Label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="2dp"
+        android:gravity="center_horizontal"
+        android:text=""
+        android:textAllCaps="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title.Inverse"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="@drawable/list_label_background"
+        />
+
+
+    <ListView
+        android:id="@+id/basicListViewFragment_ListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:headerDividersEnabled="true" />
+</LinearLayout>
